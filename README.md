@@ -1,7 +1,6 @@
 # OSTA
-Open Source Technical Analysis
 
-Open Source Technical Analysis Library for Python
+Open Source Technical Analysis > Library for Python
 
 It should be ideal for -
 
